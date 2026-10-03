@@ -18,11 +18,7 @@ Inspired by this project: https://pmndrs.github.io/examples/enter-portals/ and t
 ## Current To Do:
 
 - create the admin portal
-- fix current bugs:
-- images that are too wide/ large don't wrap nicely, so set standard sizing for images (either set for it to manually adjust or make standard sizing for artists to comply with when they post)
-- if three.js can't render the mesh model for the art, the page crashes and will need a reload (only happens with links that it can't open, so might not be a concern if artists are uplaoding to a connected bucket)
-- set character limits (will need to see what looks good on the frontend once I get to adding descriptions/ art details to the wall)
-- A LOT OF TESTING ;cries;
+- create the landing page
 
 ## Tech stack & key dependencies
 
